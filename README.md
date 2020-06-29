@@ -5,3 +5,10 @@ Minggu 1
 - Logic Control Flow and Loop
 - Python List dan Dictionary
 - Statistika Deskriptif Untuk Data Science
+
+Minggu 2
+– Pandas Introduction
+– Akses/Indexing dan Transformasi Data
+– Reshaping Data
+– Grouping Data
+– Merging DataFrame
