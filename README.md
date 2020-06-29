@@ -7,8 +7,8 @@ Minggu 1
 - Statistika Deskriptif Untuk Data Science
 
 Minggu 2
-– Pandas Introduction
-– Akses/Indexing dan Transformasi Data
-– Reshaping Data
-– Grouping Data
-– Merging DataFrame
+- Pandas Introduction
+- Akses/Indexing dan Transformasi Data
+- Reshaping Data
+- Grouping Data
+- Merging DataFrame
