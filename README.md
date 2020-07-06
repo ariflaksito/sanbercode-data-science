@@ -12,3 +12,10 @@ Minggu 2
 - Reshaping Data
 - Grouping Data
 - Merging DataFrame
+
+Minggu 3
+– Pengenalan Matplotlib
+– Custom Visualisasi
+– Multiple Plots
+– Perbandingan Kuantitatif
+– Seaborn dan Altair
