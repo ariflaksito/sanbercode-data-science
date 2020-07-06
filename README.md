@@ -14,8 +14,8 @@ Minggu 2
 - Merging DataFrame
 
 Minggu 3
-– Pengenalan Matplotlib
-– Custom Visualisasi
-– Multiple Plots
-– Perbandingan Kuantitatif
-– Seaborn dan Altair
+- Pengenalan Matplotlib
+- Custom Visualisasi
+- Multiple Plots
+- Perbandingan Kuantitatif
+- Seaborn dan Altair
