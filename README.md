@@ -19,3 +19,9 @@ Minggu 3
 - Multiple Plots
 - Perbandingan Kuantitatif
 - Seaborn dan Altair
+
+Minggu 4
+- Pengenalan Machine Learning
+- Algoritma KNN dan Model Regresi Linear
+- Evaluasi Performa dan Memilih Model
+- Preprocessing Data
